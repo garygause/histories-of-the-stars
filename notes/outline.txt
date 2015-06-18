@@ -1,0 +1,30 @@
+Prolog:
+
+Cover my experience with writing the book and motivation for doing so.
+
+Introduction:
+
+Common star terms, structure of book.
+
+Possible chapters:
+
+01 The Sun
+
+02 Arcturus
+
+03 Vega
+ 
+- Double Double
+
+- Deneb
+
+Chapter Structure:
+
+- image of star
+- type and age of star and where it fits on hr diagram
+- where the star is in relation to earth and the galaxy
+- history of star
+- planets
+- future of star and humanity
+
+

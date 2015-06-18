@@ -1,0 +1,8 @@
+title: <star name>
+image:
+type and age: 
+where:
+history:
+planets:
+future:
+references:

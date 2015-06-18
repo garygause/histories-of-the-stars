@@ -26,6 +26,7 @@ Arcturus is currently in the late stages of the main sequence.  It has likely ex
 
 
 planets:
+Some early indications exist that a planet 12 times the mass of Jupiter may exist 1.1 astronomical units from the star, within the habitable zone.  But this is debated and not confirmed.
 
 future:
 Arcturus has likely already begun fusing helium into oxygen and carbon in its core.  This stage occurs after most of the hydrogen fuel has been consumned and leads to a swelling or expansion of the star into a giant star.  

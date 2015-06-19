@@ -11,8 +11,16 @@ All pictures in this book are original works of the author taken at Starmaker Ob
 
 intro
 
+## The Sun 
+\ 
+![](img/sun.jpg)
+
+the sun description.
+
+
 ## Arcturus
- 
+
+\  
 ![](img/arcturus.jpg)
 
 stats: 
@@ -51,7 +59,7 @@ After its helium supply is exhausted, it will expand further, eject its outer sh
 
 
 ## Epsilon Lyrae 
-
+\ 
 ![](img/double.jpg)
 
 

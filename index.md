@@ -1,4 +1,5 @@
 * [Prolog](chapters/00-prolog.md)
 * [Introduction](chapters/01-introduction.md)
-* [Arcturus](chapters/02-arcturus.md)
-* [Epsilon Lyrae](chapters/03-epsilon-lyrae.md)
+* [The Sun](chapters/02-the-sun.md)
+* [Arcturus](chapters/03-arcturus.md)
+* [Epsilon Lyrae](chapters/04-epsilon-lyrae.md)
